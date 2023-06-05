@@ -25,7 +25,7 @@ import datetime
 import time
 import collections.abc
 
-from sqlcipher3._sqlite3 import *
+from sqlcipher3.sqlcipher3._sqlite3 import *
 
 paramstyle = "qmark"
 
